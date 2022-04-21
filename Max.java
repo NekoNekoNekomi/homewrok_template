@@ -8,6 +8,7 @@ public class Max {
                 max = list[i];
             }
         }
+        System.out.println("write by li");
         System.out.println(max);
     }
 }

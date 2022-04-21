@@ -10,5 +10,6 @@ int main(int argc, char **args) {
     }
   }
   printf("%d\n", max);
+  printf("%d\n", max);
   return 0;
 }
